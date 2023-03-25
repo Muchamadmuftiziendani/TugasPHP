@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div.containerForm {
+  text-align: left;
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.colum {
+  margin-bottom: 5%;
+}
+
+.label {
+  width: 30px;
+}
+
+span {
+  margin-left: 2%;
+}
